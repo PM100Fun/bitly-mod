@@ -1,4 +1,4 @@
-module github.com/CareyWang/bitly
+module github.com/pm100fun/bitly-mod
 
 go 1.13
 
